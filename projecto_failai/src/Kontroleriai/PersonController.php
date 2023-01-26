@@ -106,7 +106,7 @@ class PersonController extends BaseController
 
         return $this->response($failoTurinys);
     }
-
+    #komentaras
     public function update(Request $request): Response
     {
 
