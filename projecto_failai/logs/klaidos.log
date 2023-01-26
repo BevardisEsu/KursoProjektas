@@ -1,0 +1,6 @@
+[2023-01-26T10:25:54.108692+00:00] Portfolios.ERROR: No entry or class found for 'Aplikacija\PersonController' [] []
+[2023-01-26T10:31:13.816109+00:00] Portfolios.ERROR: No entry or class found for 'Aplikacija\PersonController' [] []
+[2023-01-26T10:40:56.406440+00:00] Portfolios.ERROR: No entry or class found for 'Aplikacija\PersonController' [] []
+[2023-01-26T10:42:37.986383+00:00] Portfolios.ERROR: No entry or class found for 'Aplikacija\PersonController' [] []
+[2023-01-26T10:43:03.033082+00:00] Portfolios.ERROR: Error while injecting dependencies into Aplikacija\Kontroleriai\PersonController: No entry or class found for 'Aplikacija\PersonsManager' [] []
+[2023-01-26T12:05:46.341369+00:00] Portfolios.ERROR: Error while injecting dependencies into Aplikacija\Kontroleriai\PersonController: No entry or class found for 'Aplikacija\Kontroleriai\PersonsManager' [] []
